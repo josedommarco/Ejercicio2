@@ -1,0 +1,4 @@
+com\example\SpringHello\controllers\AlumnoController.class
+com\example\SpringHello\models\Alumno.class
+com\example\SpringHello\repositories\AlumnoRepository.class
+com\example\SpringHello\SpringHelloApplication.class
